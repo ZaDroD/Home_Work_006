@@ -1,0 +1,15 @@
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.csproj.AssemblyReference.cache
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.AssemblyInfoInputs.cache
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.AssemblyInfo.cs
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.csproj.CoreCompileInputs.cache
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\Example044.exe
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\Example044.deps.json
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\Example044.runtimeconfig.json
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\Example044.dll
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\ref\Example044.dll
+C:\Users\ZaroD\Desktop\HW006\Example044\bin\Debug\net6.0\Example044.pdb
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.dll
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\ref\Example044.dll
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.pdb
+C:\Users\ZaroD\Desktop\HW006\Example044\obj\Debug\net6.0\Example044.genruntimeconfig.cache
